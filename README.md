@@ -1,6 +1,5 @@
 # homework1_v2.2
 # Colin Whitcomb
-* Homework 1_v2
 * June 11th, 2020
 ---
 ## Summary 
